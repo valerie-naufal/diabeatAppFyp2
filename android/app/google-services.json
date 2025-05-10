@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46906753998",
+    "project_id": "diabeatappfyp",
+    "storage_bucket": "diabeatappfyp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46906753998:android:7142dfafff313675a1e19f",
+        "android_client_info": {
+          "package_name": "com.diabeatappfyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh8g6bh0aw2BVWGp7TQWcjsSp4JUVZ7Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
